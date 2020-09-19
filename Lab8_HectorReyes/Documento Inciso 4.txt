@@ -1,0 +1,11 @@
+1- Escogí el inciso 2 debido que me faltaban cosas como en el crud y las listas, y ademas de eso podía mejorar la interacción 
+con el usuario al igual que la parte gráfica además de hacerlo mas ordenado.
+2- A este lab vine a aprender pop up menus sinceramente :/ no practiqué mucho y no le entendía... los demás temas los 
+he repasado en el proyecto de progra.
+3- Yo planié incluir los pop up menus en una tabla "para música" y al momento de seleccionar una fila en mi tabla de canciones, 
+podía hacer click derecho sobre mi tabla de música y ahí me mostraba los pop up menus con las opciones de los cruds.
+4- Tus labs me gustaron aunque a veces me trababa un poco al momento de leer lo que el programa incluía. No hablo de todos
+pero en el lab 3 por ejemplo, siento que pudo estar mas resumido pero talvez ya es cuestión de la capacidad de cada quien
+para entender lo que le piden a uno.
+
+->> Gracias clau <3 Algún día te daré un chocoate :C
